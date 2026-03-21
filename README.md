@@ -30,7 +30,6 @@ Currently diving deep into **data analysis, visualisation & ML** — making numb
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
@@ -52,12 +51,6 @@ Currently diving deep into **data analysis, visualisation & ML** — making numb
 
 ### 🚀 Projects
 
-#### 📊 [Air Quality EDA and Visualization](https://github.com/Anoushka210)
-Performed exploratory data analysis on **20,000+ global air quality records**, identifying pollution trends across **50+ cities** and visualizing seasonal PM2.5 patterns.
-`Python` `Pandas` `Matplotlib`
-
----
-
 #### 🛒 [Scalable E-Commerce ETL Pipeline](https://github.com/Anoushka210)
 End-to-end **PySpark ETL pipeline** on the Olist Brazilian E-Commerce dataset with **100K+ orders** across multiple relational tables. Features modular architecture, feature engineering for delivery performance, late order flagging, and Parquet-format master dataset for optimized downstream reads.
 `PySpark` `ETL` `Parquet` `Big Data`
@@ -67,6 +60,12 @@ End-to-end **PySpark ETL pipeline** on the Olist Brazilian E-Commerce dataset wi
 #### 🤖 [Smart FAQ Chatbot AI Agent](https://github.com/Anoushka210)
 Retrieval-based AI chatbot using **TF-IDF vectorization** and **Cosine Similarity** to map user queries to a predefined knowledge base. Includes a hybrid engine for FAQs + small talk, confidence threshold gating, and performance analytics visualized with Matplotlib & Seaborn.
 `Python` `NLP` `TF-IDF` `scikit-learn` `Matplotlib` `Seaborn`
+
+---
+
+#### 📊 [Air Quality EDA and Visualization](https://github.com/Anoushka210)
+Performed exploratory data analysis on **20,000+ global air quality records**, identifying pollution trends across **50+ cities** and visualizing seasonal PM2.5 patterns.
+`Python` `Pandas` `Matplotlib`
 
 ---
 
