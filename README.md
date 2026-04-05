@@ -131,10 +131,6 @@ Java-based system using OOP principles.
 
 ## 📊 GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anoushka210\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoushka210\&theme=tokyonight\&hide_border=true\&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anoushka210\&theme=tokyonight\&hide_border=true)
 
 ---
