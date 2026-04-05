@@ -17,10 +17,29 @@
 I'm a second-year IT student who loves turning raw data into meaningful stories.
 Currently diving deep into **data analysis, visualisation & ML** — making numbers make sense.
 
-- 🎓 BE in Information Technology (2nd Year)
-- 📊 Interested in Data Analysis, Visualisation & AI/ML
-- 🌱 Currently learning: PySpark, NLP, and data pipeline engineering
-- 🔍 Always curious, always building
+* 🎓 BE in Information Technology (Expected 2028)
+* 📊 Focus: Data Analysis • Data Engineering • AI/ML
+* 🌱 Learning: PySpark, NLP, Data Pipelines
+* 🔍 Strong interest in real-world datasets & scalable systems
+
+---
+
+## 🏆 Key Highlights
+
+* 🚚 Built ETL pipelines processing **100K+ records** using PySpark
+* 📊 Analyzed **20K+ global data points** to uncover environmental trends
+* 🤖 Developed chatbot with **100% query accuracy (10/10 test cases)**
+* ⚙️ Strong foundation in **data structures, OOP, and system design**
+
+---
+
+## 📌 Data Focus
+
+* Data Cleaning & Preprocessing
+* Feature Engineering & Transformation
+* Exploratory Data Analysis (EDA)
+* Scalable Data Pipelines
+* Visualization & Insight Generation
 
 ---
 
@@ -49,37 +68,85 @@ Currently diving deep into **data analysis, visualisation & ML** — making numb
 
 ---
 
-### 🚀 Projects
+## 🚀 Featured Projects
 
-#### 🛒 [Scalable E-Commerce ETL Pipeline](https://github.com/Anoushka210)
-End-to-end **PySpark ETL pipeline** on the Olist Brazilian E-Commerce dataset with **100K+ orders** across multiple relational tables. Features modular architecture, feature engineering for delivery performance, late order flagging, and Parquet-format master dataset for optimized downstream reads.
-`PySpark` `ETL` `Parquet` `Big Data`
+### 🛒 Scalable E-Commerce ETL Pipeline
 
----
+End-to-end **PySpark-based ETL pipeline** built on the Olist dataset.
 
-#### 🤖 [Smart FAQ Chatbot AI Agent](https://github.com/Anoushka210)
-Retrieval-based AI chatbot using **TF-IDF vectorization** and **Cosine Similarity** to map user queries to a predefined knowledge base. Includes a hybrid engine for FAQs + small talk, confidence threshold gating, and performance analytics visualized with Matplotlib & Seaborn.
-`Python` `NLP` `TF-IDF` `scikit-learn` `Matplotlib` `Seaborn`
+* Processed **100K+ orders across multiple tables**
+* Designed modular pipeline for scalability
+* Implemented **feature engineering for delivery performance**
+* Stored optimized output in **Parquet format**
 
----
-
-#### 📊 [Air Quality EDA and Visualization](https://github.com/Anoushka210)
-Performed exploratory data analysis on **20,000+ global air quality records**, identifying pollution trends across **50+ cities** and visualizing seasonal PM2.5 patterns.
-`Python` `Pandas` `Matplotlib`
+**Tech:** PySpark • ETL • Parquet • Big Data
 
 ---
 
-#### 📦 [Smart Inventory Management System](https://github.com/Anoushka210)
-OOP-based inventory system in Java utilizing **inheritance and polymorphism** for product categorization, file-based persistence via serialization, and automated daily stock monitoring & report generation.
-`Java` `OOP` `Serialization`
+### 🤖 Smart FAQ Chatbot AI Agent
+
+A retrieval-based chatbot using NLP techniques.
+
+* Implemented **TF-IDF + Cosine Similarity**
+* Built hybrid system for FAQs + small talk
+* Applied **confidence threshold filtering**
+* Visualized performance metrics
+
+**Tech:** Python • NLP • scikit-learn • Matplotlib
 
 ---
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anoushka210&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anoushka210&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoushka210&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 Air Quality Data Analysis
+
+EDA project analyzing pollution trends across global cities.
+
+* Worked on **20K+ records across 50+ cities**
+* Identified **seasonal PM2.5 trends**
+* Created insightful visualizations
+
+**Tech:** Pandas • Matplotlib
+
+---
+
+### 📦 Smart Inventory Management System
+
+Java-based system using OOP principles.
+
+* Applied **inheritance & polymorphism**
+* Implemented **file-based persistence**
+* Automated stock tracking & reporting
+
+**Tech:** Java • OOP • Serialization
+
+---
+
+## ⚡ Currently Working On
+
+* ⚙️ Advanced data pipelines using PySpark
+* 🧠 NLP-based intelligent systems
+* 🏗️ Data engineering concepts (warehousing, ETL optimization)
+* 📈 Improving data visualization & storytelling
+
+---
+
+## 📊 GitHub Insights
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anoushka210\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoushka210\&theme=tokyonight\&hide_border=true\&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Anoushka210\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anoushka210\&theme=tokyo-night\&hide_border=true)
+
+---
 
 <div align="center">
-<sub>⭐ Feel free to explore my repositories and drop a star if something interests you!</sub>
+
+⭐ *If you like my work, consider giving a star to my repositories!*
+
 </div>
