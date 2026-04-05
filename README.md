@@ -75,7 +75,7 @@ OOP-based inventory system in Java utilizing **inheritance and polymorphism** fo
 
 ---
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anoushka210&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anoushka210&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoushka210&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
