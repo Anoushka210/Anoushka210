@@ -135,22 +135,6 @@ Java-based system using OOP principles.
 
 ---
 
-## Contribution Heatmap
-
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="3D Contribution Heatmap"
-  />
-</div>
-
-<p align="center" style="color:#8b949e; font-size:13px;">
-  Contribution density visualized as a grid
-</p>
-
----
-
 <div align="center">
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
