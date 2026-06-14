@@ -135,9 +135,19 @@ Java-based system using OOP principles.
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Heatmap
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anoushka210\&theme=tokyo-night\&hide_border=true)
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="3D Contribution Heatmap"
+  />
+</div>
+
+<p align="center" style="color:#8b949e; font-size:13px;">
+  Contribution density visualized as a grid
+</p>
 
 ---
 
