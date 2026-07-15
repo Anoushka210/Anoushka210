@@ -2,11 +2,11 @@
 
 # Hey, I'm Anoushka 👋
 
-*BE Information Technology · 2nd Year · Passionate about Data*
+*BE Information Technology · 3rd Year · Passionate about Data*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anoushka-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoushka-karra-a1524b352/)
 [![GitHub](https://img.shields.io/badge/GitHub-Anoushka210-181717?style=flat&logo=github&logoColor=white)](https://github.com/Anoushka210)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-FF6B6B?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13OYkLwOE6zR8CYxclK5LnOF6YYQP1AdC/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-FF6B6B?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1fuAnHuKnwJGIyToeP3ZVxPPvgRN8wuzY/view?usp=sharing)
 
 </div>
 
@@ -14,8 +14,8 @@
 
 ### About Me
 
-I'm a second-year IT student who loves turning raw data into meaningful stories.
-Currently diving deep into **data analysis, visualisation & ML** — making numbers make sense.
+I'm a thrid-year IT student who loves turning raw data into meaningful stories.
+Currently diving deep into **data analysis, visualisation & ML** .
 
 * 🎓 BE in Information Technology (Expected 2028)
 * 📊 Focus: Data Analysis • Data Engineering • AI/ML
