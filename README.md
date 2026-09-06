@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anoushka-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoushka-karra-a1524b352/)
 [![GitHub](https://img.shields.io/badge/GitHub-Anoushka210-181717?style=flat&logo=github&logoColor=white)](https://github.com/Anoushka210)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-FF6B6B?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1fuAnHuKnwJGIyToeP3ZVxPPvgRN8wuzY/view?usp=sharing)
+[![Website](https://img.shields.io/badge/Portfolio-AnoushkaKarra-181717?style=flat&logo=website&logoColor=white)]([https://github.com/Anoushka210](https://anoushka-portfolio.onrender.com/))
 
 </div>
 
